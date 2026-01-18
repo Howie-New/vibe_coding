@@ -1,0 +1,3 @@
+# This project teach some advance usage of vibe coding tools like Claude Code , Codex ...
+
+[12 vibe coding factors](https://www.12factor.me/zh)
